@@ -1,0 +1,11 @@
+#formsection{
+    background-color: lightgray;
+}
+body{
+    background-color: lightskyblue;
+}
+
+#loginForm, #registerForm{
+    display: block;
+    width: 200px;
+}
